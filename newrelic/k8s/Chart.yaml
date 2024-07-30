@@ -1,0 +1,10 @@
+# Chart.yaml is a meta data indicate what is this app doing and using.
+apiVersion: v1
+description: New Relic Chart
+name: new-relic-chart
+version: 1.0.0
+appVersion: 1.0.0
+# The following fields are optional
+maintainers:
+- name: Developer
+  email: jessada.srm@gmail.com
